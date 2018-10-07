@@ -1,0 +1,7 @@
+base-passwd armv7vehf_neon_vfpv4 3.5.29
+busybox armv7vehf_neon_vfpv4 1.24.1
+busybox-udhcpc armv7vehf_neon_vfpv4 1.24.1
+initramfs-netboot noarch 1.0
+libc6 armv7vehf_neon_vfpv4 2.25
+run-postinsts noarch 1.0
+update-alternatives-opkg armv7vehf_neon_vfpv4 0.3.4+git0+1a708fd73d
